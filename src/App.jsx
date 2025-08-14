@@ -4,7 +4,7 @@ import viteLogo from "/vite.svg";
 import Topheader from "./components/Topheader";
 import Navbar from "./components/Navbar";
 import Filter from "./components/Filter";
-import Banner from "./components/banner";
+import Banner from "./components/Banner";
 import Categories from "./components/Categories";
 import Footer from "./components/Footer";
 import Cart from "./components/Cart";

@@ -3,7 +3,7 @@ import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import Topheader from "./components/Topheader";
 import Navbar from "./components/Navbar";
-import Filter from "./components/filter";
+import Filter from "./components/Filter";
 import Banner from "./components/banner";
 import Categories from "./components/Categories";
 import Footer from "./components/Footer";
